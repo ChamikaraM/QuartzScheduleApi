@@ -1,0 +1,14 @@
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\bin\Debug\netcoreapp2.1\QuartzScheduleApi.deps.json
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\bin\Debug\netcoreapp2.1\QuartzScheduleApi.runtimeconfig.json
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\bin\Debug\netcoreapp2.1\QuartzScheduleApi.runtimeconfig.dev.json
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\bin\Debug\netcoreapp2.1\QuartzScheduleApi.dll
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.csprojAssemblyReference.cache
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.csproj.CoreCompileInputs.cache
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.RazorAssemblyInfo.cache
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.RazorAssemblyInfo.cs
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.AssemblyInfoInputs.cache
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.AssemblyInfo.cs
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.RazorTargetAssemblyInfo.cache
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\bin\Debug\netcoreapp2.1\QuartzScheduleApi.pdb
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.dll
+D:\Quartz\Api\New\QuartzScheduleApi\QuartzScheduleApi\obj\Debug\netcoreapp2.1\QuartzScheduleApi.pdb
